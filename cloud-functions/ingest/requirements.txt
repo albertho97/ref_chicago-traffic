@@ -1,0 +1,5 @@
+google-cloud-pubsub
+google-cloud-datastore
+google-cloud-core
+sodapy
+firebase_admin
