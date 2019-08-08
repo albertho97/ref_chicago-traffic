@@ -1,3 +1,3 @@
-# ref_chicago-traffic
-GCP Reference Architecture - Ingest Real Time traffic data
+# GCP Reference Architecture - Ingest Real Time traffic data
+
 
